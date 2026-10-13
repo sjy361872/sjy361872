@@ -13,7 +13,7 @@ PM · LangGraph 오케스트레이터 · 문서 Agent · sLLM 파인튜닝·서�
 
 **PyMate** ([3차 검색](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN21_3rd_4Team) · [4차 배포](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN21-4th-4Team)) — Python 학습용 RAG 챗봇 (2026.01–02)
 3차 검색 · 4차 배포·인프라
-- Python 공식문서(RST) 전처리, 검색 방식 7가지를 비교해 하이브리드 검색(벡터 + 키워드) 채택
+- Python 공식문서(RST) 전처리, 검색 설정 7가지를 비교해 하이브리드 검색(벡터 + 키워드) 채택
 - Django·Nginx·Qdrant를 Docker Compose로 묶어 AWS EC2 배포, DB를 RDS PostgreSQL로 전환
 
 #### 기술
